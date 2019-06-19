@@ -1,4 +1,4 @@
-# Materiale Codelabs IAML / SourceSense
+# Materiale Codelabs IAML / Sourcesense
 
 L'[Italian Association for Machine Learning](https://iaml.it) (IAML) con il supporto di [Sourcesense](https://www.sourcesense.com/en) organizza a Roma nel 2018/2019 una serie di codelab interattivi dedicati alle più recenti librerie e tecnologie open source di machine learning e deep learning. Ciascun codelab ha una durata di tre ore ed è dedicato ad una singola tecnologia.
 
