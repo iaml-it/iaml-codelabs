@@ -32,6 +32,13 @@ Il codelab ha introdotto alcuni aspetti essenziali della libreria, oltre a veder
 
 Il codelab, prosecuzione di quello beginner, ha introdotto alcune funzionalità avanzate della libreria, oltre a diversi strumenti di alto livello per la progettazione e l'allenamento delle reti. Tra questi torchvision, fastai, ed il JIT compiler.
 
+## Machine Learning in Spark (beginner)
+### Organizzato il 16/07/2019, speaker [Valerio Morfino](https://www.linkedin.com/in/valerio-morfino) ([link all'evento](https://www.eventbrite.it/e/biglietti-machine-learning-in-apache-spark-codelab-63552546377#))
+
+**Materiale**: istruzioni e materiale reperibili [su repository esterno](https://github.com/valerio75/spark-codelab-0719)
+
+Nel codelab è stata illustrata la piattaforma Apache Spark, con un esempio di codice per l'analisi di sequenze di DNA e per l'analisi di un attacco informatico utilizzando noti algoritmi di classificazione.
+
 ## TensorFlow 2.0 (beginner)
 ### Organizzato il 17/04/2019, speaker [Norman Di Palo](https://www.linkedin.com/in/norman-di-palo) ([link all'evento](https://www.eventbrite.it/e/biglietti-iniziare-con-tensorflow-20-novita-e-funzioni-59292359042#))
 
